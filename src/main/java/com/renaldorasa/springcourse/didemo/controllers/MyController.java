@@ -1,4 +1,4 @@
-package com.renaldorasa.springcourse.didemo.Controllers;
+package com.renaldorasa.springcourse.didemo.controllers;
 
 import org.springframework.stereotype.Controller;
 
