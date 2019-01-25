@@ -1,0 +1,35 @@
+# comment
+name: Reni
+
+names:
+  - Mario
+  - Luigi
+  - WAAAAA
+
+book:
+  author: James S.A Corey
+  title: Leviathan Wakes
+  publisher: PENGUIN
+
+truth: yes
+
+another_truth: TRUE
+
+more_true: true
+
+false: no #No, FALSE, false
+
+string_val: "this is it's quote"
+
+include_new_lines: |
+  hahaha
+  hahah ha
+  i dunno why
+  im
+  laughing
+
+ignore_new_lines: >
+  this is
+  why am I
+  doing
+  this
