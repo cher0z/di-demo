@@ -4,3 +4,10 @@ guru:
     username: rENI
     password: iNER
     url: renicom
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: JMS USERNAME $ German
